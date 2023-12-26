@@ -20,10 +20,15 @@ To submit contributions, make a fork of this repository, name it WillboxMattewRe
 "(Repository name)":
 [[(First), (Second),],(Once),],
 },
+"manualOnly":(Boolean)
 }
+
+It is included in this repository, so it is copied when you fork it.
 
 Repeat is for something you want to enter every time (subscribed), but Spec is specific times. Fill (First), (Second), and (Once) with numbers;
   every time this event happens, the number increases by one, then a program finds matches.
+
+Some projects that, quoteonquote, "need my help" are automatically entered unless Manual Only is set to true.
 
 
 I'm probably going to hold out on this a long time, but at least you'll be prepared.
