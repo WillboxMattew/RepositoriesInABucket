@@ -23,7 +23,7 @@ To submit contributions, make a fork of this repository, name it WillboxMattewRe
 "manualOnly":(Boolean)
 }
 
-It is included in this repository, so it is copied when you fork it.
+It is included in this repository, so it is copied when you fork it. These projects are found in auto.txt.
 
 Repeat is for something you want to enter every time (subscribed), but Spec is specific times. Fill (First), (Second), and (Once) with numbers;
   every time this event happens, the number increases by one, then a program finds matches.
